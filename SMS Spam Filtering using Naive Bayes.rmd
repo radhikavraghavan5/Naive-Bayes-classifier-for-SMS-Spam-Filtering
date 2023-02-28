@@ -7,7 +7,7 @@ output: pdf_document
 
 # SMS spam filtering analysis
 
-#### **Answer:**
+#### **Conclusion:**
 
 -   Adding the Laplace estimator reduced the number of false positives (ham messages erroneously classified as spam) from 20 to 17 and the number of false negatives
 
