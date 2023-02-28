@@ -1,7 +1,7 @@
 # Naive-Bayes-classifier-for-SMS-Spam-Filtering
 
 Building a Spam Filter with Naive Bayes
-[Originally published on Medium via the Towards Data Science publication]
+[Originally published on Medium via the Towards Data Science publication](https://towardsdatascience.com/how-to-build-and-apply-naive-bayes-classification-for-spam-filtering-2b8d3308501]
 
 Introduction
 Nowadays, communication channels are constantly attacked by fraudulent mechanisms, which tend to "steal" time and money from people and organizations. Spamming activity is one of them and wastes people's time, while also "eats up" a lot of network bandwidth. Data Science could not be absent from this battle front and, fortunately, it is capable to offer valuable solutions.
