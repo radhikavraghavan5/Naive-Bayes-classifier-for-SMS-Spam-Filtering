@@ -3,9 +3,6 @@
 Building a Spam Filter with Naive Bayes
 [Originally published on Towards Data Science](https://towardsdatascience.com/how-to-build-and-apply-naive-bayes-classification-for-spam-filtering-2b8d3308501)
 
-Introduction
-Nowadays, communication channels are constantly attacked by fraudulent mechanisms, which tend to "steal" time and money from people and organizations. Spamming activity is one of them and wastes people's time, while also "eats up" a lot of network bandwidth. Data Science could not be absent from this battle front and, fortunately, it is capable to offer valuable solutions.
-
 # Scope
 This project aims to build a Spam Filter using Python, which classifies new messages as spam or ham, by utilizing the Mutlinomial Naive Bayes Theorem. Its accuracy aims for a ratio of above 90%, or else, we expect that more than 90% of the new messages will be classified correctly.
 
