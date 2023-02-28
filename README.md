@@ -3,11 +3,11 @@
 Building a Spam Filter with Naive Bayes
 [Originally published on Towards Data Science](https://towardsdatascience.com/how-to-build-and-apply-naive-bayes-classification-for-spam-filtering-2b8d3308501)
 
-<img width="205" alt="Screenshot 2023-02-27 at 10 36 51 PM" src="https://user-images.githubusercontent.com/56044346/221774078-a0f9b67d-8eb2-431c-8689-064ecf830eb8.png">
+<img width="495" alt="Screenshot 2023-02-27 at 10 40 17 PM" src="https://user-images.githubusercontent.com/56044346/221774401-0c8f478a-172c-453c-80b4-8f14e63301cf.png">
 
 
 # Scope
-This project aims to build a Spam Filter using Python, which classifies new messages as spam or ham, by utilizing the Mutlinomial Naive Bayes Theorem. Its accuracy aims for a ratio of above 90%, or else, we expect that more than 90% of the new messages will be classified correctly.
+This project aims to build a Spam Filter using R libraries, which classifies new messages as spam or ham, by utilizing the Naive Bayes classifier. Its accuracy aims for a ratio of above 90%, or else, I expect that more than 90% of the new messages will be classified correctly.
 
 # Scenario
 This challenge is part of the Data Science course I took up, goal was to provide the contest with an algorithm, that takes as input the user's sms and automatically filters out the spam ones. This algorithm would be implemented to a new app and should score an accuracy ratio of at least 90% (the standard one achieved by the competitors).
