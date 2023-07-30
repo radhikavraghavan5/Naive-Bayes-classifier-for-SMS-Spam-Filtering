@@ -7,13 +7,13 @@ Building a Spam Filter with Naive Bayes
 
 
 # Scope
-This project aims to build a Spam Filter using R libraries, which classifies new messages as spam or ham, by utilizing the Naive Bayes classifier. Its accuracy aims for a ratio of above 90%, or else, I expect that more than 90% of the new messages will be classified correctly.
+This project aims to build a Spam Filter using R libraries, which classifies new messages as spam or ham, by utilizing the Naive Bayes classifier. Its accuracy aims for a ratio of above 90%
 
 # Scenario
-This challenge is part of the Data Science course I took up, goal was to provide the contest with an algorithm, that takes as input the user's sms and automatically filters out the spam ones. This algorithm would be implemented to a new app and should score an accuracy ratio of at least 90% (the standard one achieved by the competitors).
+This challenge was part of the Data Science course I studied, goal was to provide the contest with an algorithm, that takes as input the user's sms and automatically filters out the spam ones. This algorithm would be implemented to a new app and should score an accuracy ratio of at least 90% (the standard one achieved by the competitors).
 
 # Data Sets
-To train the algorithm, I am going to use a dataset of 5560 SMS messages that are already classified by humans. The dataset was put together by Tiago A. Almeida and José María Gómez Hidalgo and it can be downloaded from the The UCI Machine Learning Repository.
+To train the algorithm, I used a dataset of 5560 SMS messages that are already classified by humans.
 
 # Roadmap
 Briefly explore the full data set, consisting of 5560 SMS messages, which is distributed among spam and ham content by approximately 87% and 13%, respectively.
